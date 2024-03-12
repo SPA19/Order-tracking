@@ -1,2 +1,2 @@
 # Order-tracking
-se realizara la logistica de pedidos pendientes y los entregados
+the logistics of pending and delivered orders will be performed by simon
